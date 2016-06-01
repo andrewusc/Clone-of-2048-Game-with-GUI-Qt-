@@ -11,8 +11,8 @@ UP Arrow  : UP
 DOWN Arrow: DONW
 LEFT Arrow: LEFT
 RIGHT Arrow: RIGHT
-< : UNDO
-> : REDO
+'<' : UNDO
+'>' : REDO
 
 
 
