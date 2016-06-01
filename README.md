@@ -21,6 +21,8 @@ RIGHT Arrow: RIGHT
 
 '>' : REDO
 
+I refer to  https://github.com/jvaelen/2048 for the design pattern and color matches.
+
 
 
 
